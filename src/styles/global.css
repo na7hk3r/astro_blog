@@ -5,8 +5,8 @@
  */
 
 :root {
-	--accent: #00bcf2;
-	--accent-dark: #0099bc;
+	--accent: #8e69c7;
+	--accent-dark: #7556a2;
 	--black: 15, 18, 25;
 	--gray: 96, 115, 159;
 	--gray-light: 229, 233, 240;
@@ -57,15 +57,15 @@ body {
 
 ::-webkit-scrollbar
 {
-	width: 12px;
-	background-color: #F5F5F5;
+	width: 10px;
+	background-color: var(--gray);
 }
 
 ::-webkit-scrollbar-thumb
 {
 	border-radius: 10px;
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-	background-color: #555;
+	background: linear-gradient(#8e69c7, #7556a2);
 }
 
 main {
