@@ -44,47 +44,35 @@ heroImage: '/spaceX.png'
 
 
 ``` markdown
-├───.astro/
-│   └───types.d.ts
 ├───public/
-│   ├───fonts/
-│   │   ├───atkinson-bold.woff
-│   │   └───atkinson-regular.woff
-│   ├───blog-placeholder-2.jpg
-│   ├───blog-placeholder-about.png
-│   ├───favicon.svg
-│   ├───logo.png
-│   ├───spacex-scrnsht.png
-│   └───spaceX.png
+│   └───favicon.svg
 ├───src/
 │   ├───components/
-│   │   ├───BaseHead.astro
-│   │   ├───Footer.astro
-│   │   ├───FormattedDate.astro
+│   │   ├───CardLaunch.astro
 │   │   ├───Header.astro
-│   │   └───HeaderLink.astro
-│   ├───content/
-│   │   ├───blog/
-│   │   │   ├───astro_learning.md
-│   │   │   └───first-post.md
-│   │   └───config.ts
+│   │   ├───HeaderButton.astro
+│   │   └───Launches.astro
 │   ├───layouts/
-│   │   └───BlogPost.astro
+│   │   └───Layout.astro
 │   ├───pages/
 │   │   ├───blog/
-│   │   │   ├───index.astro
-│   │   │   └───[...slug].astro
+│   │   │   └───mi-primer-articulo.md
+│   │   ├───launch/
+│   │   │   └───[id].astro
+│   │   ├───404.astro
 │   │   ├───about.astro
-│   │   ├───index.astro
-│   │   └───rss.xml.js
-│   ├───styles/
-│   │   └───global.css
-│   ├───consts.ts
+│   │   ├───example.html
+│   │   └───index.astro
+│   ├───services/
+│   │   └───spacex.ts
+│   ├───types/
+│   │   └───api.ts
 │   └───env.d.ts
 ├───astro.config.mjs
 ├───package-lock.json
 ├───package.json
 ├───README.md
+├───tailwind.config.mjs
 └───tsconfig.json
 ``` 
 ---
