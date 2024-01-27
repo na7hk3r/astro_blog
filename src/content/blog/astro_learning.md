@@ -25,7 +25,7 @@ heroImage: '/spaceX.png'
 
  Me gusta conservarlos en github y hacer 27mil commits meses después modificando cosas del front. Es una mala práctica, estoy seguro. Pero me gana la ansiedad y el miedo a que explote la pc, no pueda guardar el cambio, me olvide de volver a hacerlo. Pura obsesión.
 
- <img src='/spacex-scrnsht.png' />
+ <img src='../../../public/spacex-scrnsht.png' />
 
  Otra cosa que aprendí, y que ahora adjunto es como crear los árboles de directorios y proyectos con una extensión.
 
