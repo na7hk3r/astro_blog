@@ -17,7 +17,7 @@ heroImage: '/spaceX.png'
 
  Esta semana empecé tres proyectos en Astro, ¿por qué? porque a veces así funciona mi proceso de aprendizaje, me obsesiono con una tecnología que me llame la atención y juego, pruebo cosas, sigo tutoriales, aprendo.
 
-<img src='/public/spaceX.png' />
+<img src='https://raw.githubusercontent.com/na7hk3r/astro_blog/main/public/spaceX.png' />
 
  Construí este sencillo sitio para aprender su uso mientras repaso cosas clave en Javascript como el fetching de datos. Sigo en forma. Como todo, mil cosas por mejorar pero estoy contento con el resultado, por el contenido de lo aprendido. 
 
@@ -25,7 +25,7 @@ heroImage: '/spaceX.png'
 
  Me gusta conservarlos en github y hacer 27mil commits meses después modificando cosas del front. Es una mala práctica, estoy seguro. Pero me gana la ansiedad y el miedo a que explote la pc, no pueda guardar el cambio, me olvide de volver a hacerlo. Pura obsesión.
 
- <img src='../../../public/spacex-scrnsht.png' />
+ <img src='https://raw.githubusercontent.com/na7hk3r/astro_blog/main/public/spacex-scrnsht.png' />
 
  Otra cosa que aprendí, y que ahora adjunto es como crear los árboles de directorios y proyectos con una extensión.
 
