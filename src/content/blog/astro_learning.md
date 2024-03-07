@@ -1,7 +1,7 @@
 ---
 title: 'Jugando con Astro'
 description: 'Aprendiendo a crear una aplicación desde Astro con Tailwind, usando la API de SpaceX'
-pubDate: 'Jan 27 2023'
+pubDate: 'Jan 27 2024'
 heroImage: '/spaceX.png'
 ---
 

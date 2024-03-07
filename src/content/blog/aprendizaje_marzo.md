@@ -1,11 +1,11 @@
 ---
-title: 'Marzo, el aprendiz.
+title: 'Marzo, el aprendiz.'
 description: 'Aprender haciendo, viejos vicios nuevos juegos.'
-pubDate: 'March 03 2023'
+pubDate: 'Mar 03 2024'
 heroImage: '/muestra2.png'
 ---
 
-# Howdy 'fellas!
+## Howdy 'fellas!
 
 Aprender haciendo debe de ser la mejor forma siempre de interiorizar cualquier cosa, mucho más si de un lenguaje o framework nuevo se trata.
 Nada muy novedoso, sigo practicando astro, pero esta vez arrancando sin templates. 
@@ -47,6 +47,7 @@ El poema es mío, muy viejo. Creo que lo elegí porque es el único que no me da
       loop
       muted
       plays-inline
+      class="video"
     >
       <source src="../../../public/poema-0_EDIT.webm" type="video/webm" />
 </video>
@@ -59,4 +60,9 @@ Eso es todo amigos!
 Ah! Lo de Howdy! Es porque paso muchas horas cabalgando en el RDR2, fumando pucho y aprovisionandome de 'latas de judías' y 'latas de melocotones' para seguir dando vueltas por las montañas nevadas. Cosa buena este juego.
 Salud.
 
+<style>
+.video {
+  max-width: 40rem
+}
+</style>
 
