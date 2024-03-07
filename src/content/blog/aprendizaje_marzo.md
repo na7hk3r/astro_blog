@@ -20,10 +20,10 @@ También le agarré el gustito a la edición de videos simples, etc.
 
 > 'Falta un botón para muestra, dice una frase de antaño...'
 
-<img src="../../../public/muestra1.png" alt="Muestra inicio desktop" />
-<img src="../../../public/muestra2.png" alt="Muestra inicio desktop carrusel" />
-<img src="../../../public/muestra_movil1.png" alt="Muestra inicio movil" />
-<img src="../../../public/muestra_movil2.png" alt="Muestra inicio movil carrusel" />
+<img src="https://raw.githubusercontent.com/na7hk3r/astro_blog/main/public/muestra1.png" alt="Muestra inicio desktop" />
+<img src="https://raw.githubusercontent.com/na7hk3r/astro_blog/main/public/muestra2.png" alt="Muestra inicio desktop carrusel" />
+<img src="https://raw.githubusercontent.com/na7hk3r/astro_blog/main/public/muestra_movil1.png" alt="Muestra inicio movil" />
+<img src="https://raw.githubusercontent.com/na7hk3r/astro_blog/main/public/muestra_movil2.png" alt="Muestra inicio movil carrusel" />
 
 > https://cyberock-web.vercel.app/
 
@@ -49,7 +49,7 @@ El poema es mío, muy viejo. Creo que lo elegí porque es el único que no me da
       plays-inline
       class="video"
     >
-      <source src="../../../public/poema-0_EDIT.webm" type="video/webm" />
+      <source src="/public/poema-0_EDIT.webm" type="video/webm" />
 </video>
 
 ---
