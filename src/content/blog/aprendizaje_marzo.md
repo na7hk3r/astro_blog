@@ -13,7 +13,7 @@ Nada muy novedoso, sigo practicando astro, pero esta vez arrancando sin template
 --- 
 
 #### Semana de aprendizaje y creación.
-##### También abundante fisura con RDR2.
+##### También bastante fisura con RDR2.
 
 La cuestión que comencé un sitio muy sencillo con un videobackground, nunca lo había utilizado. Creo que el mayor desafío fue el adaptarlo a los distintos tamaños de pantalla.
 También le agarré el gustito a la edición de videos simples, etc.
@@ -49,8 +49,11 @@ El poema es mío, muy viejo. Creo que lo elegí porque es el único que no me da
       plays-inline
       class="video"
     >
-      <source src="/public/poema-0_EDIT.webm" type="video/webm" />
+      <source src="/poema-0_EDIT.webm" type="video/webm" />
 </video>
+
+> Aqui arriba se encuentra un video el cual no se ve correctamente
+> Actualizaré en breve a ver si funciona.
 
 ---
 Y bueno, como dijo el conejo Bugs
