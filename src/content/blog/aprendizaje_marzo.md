@@ -52,8 +52,7 @@ El poema es mío, muy viejo. Creo que lo elegí porque es el único que no me da
       <source src="/poema-0_EDIT.webm" type="video/webm" />
 </video>
 
-> Aqui arriba se encuentra un video el cual no se ve correctamente
-> Actualizaré en breve a ver si funciona.
+> update: funciono lo de poner el video con ruta relativa
 
 ---
 Y bueno, como dijo el conejo Bugs
