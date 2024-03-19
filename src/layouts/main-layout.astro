@@ -1,0 +1,39 @@
+---
+import Head from "./components/head.astro";
+import Header from "./components/header.astro";
+import Background from "./components/background.astro";
+
+import { SITE_TITLE, SITE_DESCRIPTION } from "../config/consts";
+
+export interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title = SITE_TITLE, description = SITE_DESCRIPTION }: Props =
+  Astro.props;
+---
+
+<style is:global>
+  ::-webkit-scrollbar {
+    width: 1px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #f4e9dc;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #494949;
+  }
+</style>
+
+<html lang="en">
+  <Head title={title} description={description} />
+  <body class="bg-light">
+    <Background>
+      <Header />
+      <main class="max-w-xl mx-auto">
+        <slot />
+      </main>
+    </Background>
+  </body>
+</html>

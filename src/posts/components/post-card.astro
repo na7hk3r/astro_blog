@@ -1,0 +1,28 @@
+---
+import ArrowRightIcon from "../icons/arrow-right-icon.astro";
+import type { CollectionEntry } from "astro:content";
+import { SITE_URL } from "../../config/consts";
+interface Props {
+  post: CollectionEntry<"posts">;
+}
+
+const { post }: Props = Astro.props;
+---
+
+<div
+  class="prose-sm md:prose-base prose-headings:text-light border-b-light border-b mb-4 pb-4"
+>
+  <h1 class="">{post.data.title}</h1>
+  <p class="text-light">
+    {post.data.description}
+  </p>
+  <p class="text-light">
+    {post.data.pubDate.toLocaleDateString()}
+  </p>
+  <p class="flex justify-end">
+    <a href={`${SITE_URL}/posts/${post.slug}`}>
+      <ArrowRightIcon />
+    </a>
+  </p>
+  <p class="text-right text-light font-light">Begin Reading</p>
+</div>
