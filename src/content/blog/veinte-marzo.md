@@ -34,8 +34,12 @@ No solo visualmente agradables si no que creo que ese código es capaz de evalua
 
 > Lo de la foto no es nada del otro mundo, es báskara y un ejemplo boludo. Ba, es boludo para quién ya sepa y esté acostumbrado a matemáticas y sin dudas a cosas más complejas, yo por mi parte no recordaba un carajo. Pero está bueno, entretenido.
 
->**Nota** Mientras estaba realizando esta entrada tenia el problema de que no me corría el comando npm run dev y decia que 'astro' no se reconocia como un comando.
-> Se solucionó reinstalando astro... npm install astro
+$$x=\frac{b\pm\sqrt{b^2-4ac}}{2·a}$$
+
+>**Nota** 
+> El punto medio es alt + 250
+> Mientras estaba realizando esta entrada tenia el problema de que no me corría el comando npm run dev y decia que 'astro' no se reconocia como un comando.
+>> Se solucionó reinstalando astro... npm install astro
 
 >Como se borro solo o no se instaló simplemente con npm install, ni idea. Pero ahi quedó. 
 
