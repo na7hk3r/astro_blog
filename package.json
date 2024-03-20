@@ -13,11 +13,10 @@
     "@astrojs/mdx": "^1.1.0",
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.0.0",
-    "astro": "^3.2.2"
+    "astro": "^3.6.5"
   },
   "description": "```sh npm create astro@latest -- --template blog ```",
   "main": "index.js",
-  "devDependencies": {},
   "author": "",
   "license": "ISC"
 }
