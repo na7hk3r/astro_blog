@@ -30,10 +30,6 @@ El markdown es algo que me tiene bastante atrapado por su sencillez y posibilida
 Esta vez he estado practicando como poner fórmulas matemáticas y que queden visualmente agradables.
 No solo visualmente agradables si no que creo que ese código es capaz de evaluarse, creo que es una integración de R, algo así. No sé, investigaré luego. Por lo pronto, a efectos prácticos muy buenos resultados
 
-<img src="/md-ftw.jpg" alt="Foto de IDE con md" />
-
-> Lo de la foto no es nada del otro mundo, es báskara y un ejemplo boludo. Ba, es boludo para quién ya sepa y esté acostumbrado a matemáticas y sin dudas a cosas más complejas, yo por mi parte no recordaba un carajo. Pero está bueno, entretenido.
-
 <img src="/baskara.png" alt="Screenshot .md con fórmula" />
 
 >**Nota** 
