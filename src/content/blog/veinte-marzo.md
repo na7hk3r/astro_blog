@@ -28,7 +28,7 @@ Otra cosa, al generar un proyecto de astro aparece un robot que mueve los ojitos
 
 El markdown es algo que me tiene bastante atrapado por su sencillez y posibilidades.
 Esta vez he estado practicando como poner fórmulas matemáticas y que queden visualmente agradables.
-No solo visualmente agradables si no que creo que ese código es capaz de evaluarse, creo que es una integración de R, algo así. No sé, investigaré luego. Por lo pronto, a efectos prácticos muy buenos resultados
+No solo visualmente agradables si no que creo que ese código es capaz de evaluarse, creo que es una integración de R, algo así. No sé, investigaré luego. Por lo pronto, a efectos prácticos muy buenos resultados.
 
 <img src="/baskara.png" alt="Screenshot .md con fórmula" />
 
