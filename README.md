@@ -1,6 +1,6 @@
 ## Este-Blog🧙‍♂️
 
-### Aprendiendo a usar Astro con plantilla de blog
+##### Test posts
 #### Live Demo:
 > https://este-blog.vercel.app/
 <br />
