@@ -60,6 +60,19 @@ Y agregando también el sitio para mi hermana y sus productos herbales, claramen
 
 ---
 
+### Otras cosillas
+
+<video
+      autoplay
+      loop
+      muted
+      plays-inline
+      class="video"
+    >
+      <source src="/muestra_making-of.webm" type="video/webm" />
+</video>
+
+
 Lo demás, todo viene bien. A lo mejor algún detalle se me escapa, pero el entretiempo es otra historia.
 
 
